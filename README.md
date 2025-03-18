@@ -1,0 +1,1 @@
+# hands-on-7-spark-structured-API-MovieRatingsAnalysis
